@@ -7,7 +7,9 @@ function updateVisitorCount() {
         method: 'POST',
         headers: {
             'Content-Type': 'application/json'
-        }
+        },
+        mode: 'cors',
+        credentials: 'omit'
     })
     .then(response => response.json())
     .then(data => {
