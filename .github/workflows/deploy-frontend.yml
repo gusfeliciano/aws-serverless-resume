@@ -20,7 +20,7 @@ jobs:
     - name: Update API Gateway URL
       run: |
         API_URL=$(aws cloudformation describe-stacks --stack-name VisitorCounterCdkStack --query "Stacks[0].Outputs[?OutputKey=='ApiUrl'].OutputValue" --output text)
-        sed -i "s|REPLACE_WITH_API_GATEWAY_URL|$API_URL|g" js/main.js
+        sed -i "s|REPLACE_WITH_API_GATEWAY_URL|$API_URL|g" main.js
 
     - name: Deploy to S3
       run: |
