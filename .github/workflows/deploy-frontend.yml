@@ -24,7 +24,7 @@ jobs:
 
     - name: Update API URL in JavaScript
       run: |
-        sed -i "s|REPLACE_WITH_API_GATEWAY_URL|$API_URL|g" js/main.js
+        sed -i "s|REPLACE_WITH_API_GATEWAY_URL|$API_URL|g" main.js
 
     - name: Deploy to S3
       run: |
