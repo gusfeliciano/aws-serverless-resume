@@ -34,7 +34,7 @@ This repository contains the frontend code for my implementation of the Cloud Re
 1. Clone this repository:
    ```
    git clone https://github.com/gusfeliciano/cloud-resume-frontend.git
-   cd cloud-resume-challenge-frontend
+   cd cloud-resume-frontend
    ```
 
 2. Open `index.html` in your browser to view the site locally.
