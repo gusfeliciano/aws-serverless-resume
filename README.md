@@ -33,7 +33,7 @@ This repository contains the frontend code for my implementation of the Cloud Re
 
 1. Clone this repository:
    ```
-   git clone https://github.com/your-username/cloud-resume-challenge-frontend.git
+   git clone https://github.com/gusfeliciano/cloud-resume-frontend.git
    cd cloud-resume-challenge-frontend
    ```
 
