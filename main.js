@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
 });
 
 function updateVisitorCount() {
-    fetch('REPLACE_WITH_API_GATEWAY_URL', {
+    fetch('https://edvmxbl58d.execute-api.us-east-1.amazonaws.com/prod/visitorcount', {
         method: 'POST',
         headers: {
             'Content-Type': 'application/json'
