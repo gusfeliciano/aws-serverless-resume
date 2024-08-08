@@ -2,6 +2,12 @@
 
 This repository contains the frontend code for my implementation of the Cloud Resume Challenge. It's a static website that displays my resume and includes a visitor counter, demonstrating various AWS services and CI/CD practices.
 
+## AWS Architecture Diagram and Live Demo
+
+Live Demo Website: [https://heyitsgus.com](https://heyitsgus.com)
+
+![AWS Diagram](assets/images/aws-cloud-resume-diagram.png)
+
 ## Project Structure
 
 ```
@@ -91,8 +97,6 @@ This project is open source and available under the [MIT License](LICENSE).
 Gus Feliciano - gus.feliciano@outlook.com
 
 Project Link: [https://github.com/gusfeliciano/cloud-resume-frontend](https://github.com/gusfeliciano/cloud-resume-frontend)
-
-Resume Website: [https://heyitsgus.com](https://heyitsgus.com)
 
 ---
 
