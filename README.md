@@ -92,6 +92,8 @@ Gus Feliciano - gus.feliciano@outlook.com
 
 Project Link: [https://github.com/gusfeliciano/cloud-resume-frontend](https://github.com/gusfeliciano/cloud-resume-frontend)
 
+Resume Website: [https://heyitsgus.com](https://heyitsgus.com)
+
 ---
 
 This project is part of the [Cloud Resume Challenge](https://cloudresumechallenge.dev/), an excellent way to showcase cloud skills and learn new technologies.
